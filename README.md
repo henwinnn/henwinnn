@@ -52,10 +52,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=henwinnn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com?user=henwinnn&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henwinnn&theme=tokyonight" alt="Profile details" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henwinnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=henwinnn&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henwinnn&theme=tokyonight" alt="Repos per language" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=henwinnn&theme=tokyonight" alt="Most commit language" height="180"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=henwinnn&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true" alt="Contribution graph" width="100%"/>
 
