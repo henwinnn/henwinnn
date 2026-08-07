@@ -1,14 +1,18 @@
-<h1 align="center">Hi, I'm Henwin 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Front-End Developer (4+ yrs) · React · Next.js · TypeScript</b><br/>
-  Building in Web3 · Learning AI — RAG with LangChain & LangGraph
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:414868,100:7aa2f7&height=220&section=header&text=Henwin&fontSize=80&fontColor=c0caf5&animation=fadeIn&desc=Front-End%20Developer%20%C2%B7%20Web3%20%C2%B7%20AI&descSize=22&descAlignY=78" alt="header" width="100%"/>
 
-<p align="center">
+<a href="https://github.com/henwinnn">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Front-End+Developer+(4%2B+years);React+%C2%B7+Next.js+%C2%B7+TypeScript;Building+in+Web3+%E2%80%94+DEX+%C2%B7+Cross-chain+apps;Learning+AI+%E2%80%94+RAG+%C2%B7+LangChain+%C2%B7+LangGraph" alt="Typing SVG"/>
+</a>
+
+<p>
   <a href="https://www.linkedin.com/in/henwin/"><img src="https://img.shields.io/badge/LinkedIn-Henwin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:henwin1997@gmail.com"><img src="https://img.shields.io/badge/Email-henwin1997%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:henwin1997@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=henwinnn&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
+
+</div>
 
 ## 🧑‍💻 About Me
 
@@ -19,25 +23,9 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Redux--Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white" alt="Redux-Saga"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"/>
-</p>
-
-**Web3**
-
-<p>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-</p>
-
-**AI / Automation**
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,solidity,vercel,git,github&perline=12" alt="Tech stack icons"/>
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
@@ -45,34 +33,50 @@
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
+
+</div>
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**NusanSwap**](https://github.com/henwinnn/NusanSwapV2) | Decentralized exchange prototype — 🏆 3rd place, Lisk Chain Hackathon 2025 · [Live demo](https://nusanswap.vercel.app/) | Next.js, TypeScript, Xellar Kit |
-| [**Inflaunch**](https://github.com/henwinnn/Inflaunch-core-frontendV2) | Web3 launchpad frontend | Next.js, TypeScript |
-| [**CrossChainDefiUnite**](https://github.com/henwinnn/CrossChainDefiUnite) | Cross-chain DeFi swap application | TypeScript |
-| [**CLOBFrontend**](https://github.com/henwinnn/CLOBFrontend) | Central limit order book (CLOB) trading UI | TypeScript |
+| 🥉 [**NusanSwap**](https://github.com/henwinnn/NusanSwapV2) | Decentralized exchange prototype — 3rd place, Lisk Chain Hackathon 2025 · [Live demo](https://nusanswap.vercel.app/) | Next.js, TypeScript, Xellar Kit |
+| 🚀 [**Inflaunch**](https://github.com/henwinnn/Inflaunch-core-frontendV2) | Web3 launchpad frontend | Next.js, TypeScript |
+| ⛓️ [**CrossChainDefiUnite**](https://github.com/henwinnn/CrossChainDefiUnite) | Cross-chain DeFi swap application | TypeScript |
+| 📈 [**CLOBFrontend**](https://github.com/henwinnn/CLOBFrontend) | Central limit order book (CLOB) trading UI | TypeScript |
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henwinnn&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=henwinnn&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=henwinnn&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=henwinnn&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" height="165"/>
 
-<p align="center">
-  💬 Open to conversations about frontend, Web3, and AI — reach me on <a href="https://www.linkedin.com/in/henwin/">LinkedIn</a>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henwinnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top Languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=henwinnn&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true" alt="Contribution graph" width="100%"/>
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henwinnn/henwinnn/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henwinnn/henwinnn/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/henwinnn/henwinnn/output/github-snake.svg" alt="Contribution snake"/>
+</picture>
+
+</div>
+
+<div align="center">
+
+💬 Open to conversations about frontend, Web3, and AI — reach me on [LinkedIn](https://www.linkedin.com/in/henwin/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:414868,100:1a1b27&height=120&section=footer" alt="footer" width="100%"/>
+
+</div>
